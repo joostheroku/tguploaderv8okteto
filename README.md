@@ -1,4 +1,4 @@
 
 ## Deploy in One Click
 
-[![Deploy to Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/joostheroku/tguploaderv8okteto)
+[![Deploy to Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/Carli9510/tguploaderv8okteto)

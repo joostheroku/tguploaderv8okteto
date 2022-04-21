@@ -12,7 +12,7 @@
     },
     "tg_admin_user": {
       "description": "El Usuario DE Telegram Q Va A ADministrar El Bot",
-      "value": "obisoftdev"
+      "value": "JoostAbraham"
     },
     "bot_token": {
       "description": "El token del bot",
